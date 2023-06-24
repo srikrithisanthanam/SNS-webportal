@@ -1,0 +1,22 @@
+% rebase('layout.tpl', title=title, year=year)
+<div class="jumbotron">
+<font face="monotype corsiva" color="maroon"><u>
+<h1><center>Srikanth & Aswathy</h1></u></font></center>
+<hr color="maroon" size=5><font size=4 align="justify">
+<p>
+Aswathy and Srikanth are true torch bearers of the authentic tradition of south Indian classical dances, particularly Bharata Natyam. Bonded by their devotion to the classical south Indian arts as well as by matrimony, they are worthy inheritors of the teaching tradition advanced by Kalamandalam Saraswathy. Alongside the duo also celebrate the stage with their joint and individual performances in different parts of the globe.
+<br><center><img src="/static/images/sa.jpeg" height=300 width=300><br></center>
+<br><br><br><h3><center><font color="maroon"><u>SRIKANTH</h3></u></font><br></center>
+<p>Since the age of 6, Srikanth has been at home on the stage, first as an actor in the Bhagavata Mela dance drama of Mellattur, Tamilnadu, and then as a dancer in the tradition of Bharatanatyam. Srikanth has trained under several illustrious Gurus, including Sri. Shanmugasundaram Pillai, Dr. Saraswati, and Dr.Padma Subrahmanyam. It was at Dr.Padma Subrahmanyam 's institution that he broadened his horizons in the art of Natya . He has also performed with leading dancers like Chitra Visweswaran, Lakshmi Viswanathan, Radha, Krishnaveni Lakshmanan, Malavika Sarukkai, and Anita Ratnam.
+Srikanth has been a regular performer in the sabhas of Chennai and has performed all over India and abroad. The countries he has performed include Thailand, France, Indonesia, Canada, the U.S.A., U.A.E and Reunion Islands. Srikanth is a graded artist of Doordarshan and an empanelled artist of ICCR. Among other recognitions, he is the recipient of Yuva Kala Bharathi Title, Tamil Nadu Iyal Isai Nataka Manram Award, Talent Promotion Award and Award of Excellence, Lakshmi Viswanathan Endowment for Abhinaya, Pandanallur Shanmuga Sundaram Pillai Memorial Award and Nartana Kishora Sundaram. Srikanth has been awarded with the Junior Fellowship from the Department of Culture, Government of India.
+In the all-male Bhagavata Mela, he has specialised in performing female roles, such as that of Sita and Devaki. He successfully balances and makes effective use of the Lasya and Tandava aspects in his dance choreography and innovations. His grace and poise have endowed him with an impressive stage presence.
+Srikanth has acted in a number of documentary and feature films including ‘Srinivasa Ramanuja’ for BBC, ‘Charukesi’ for ZDF channel, West Germany, ‘Sculptures that come alive’ for the International Film Festival, ‘Ragam Sangeetham’ and ‘Bharatham’ for Raj TV, Chennai, G.V.Iyer’s film Swami Vivekananda and has also danced in ‘Shishu Sadhana’ - a DVD Produced by Kala Bharathi, Canada.
+A dancer, actor, and nattuvanar, Srikanth training in music and inherent love for literature add a greater depth to the artiste in him and make him a true exponent of Natya.
+</p><br><br><br><h3><font color="maroon"><u><center>ASWATHY</h3></u></font><br></center>
+<p>Aswathy's affinity to the arts would have come as no surprise for anybody who had known her from her childhood. Born to Kalamandalam Saraswathy and Sri. M.T Vasudevan Nair -, gyanpeeth award winning legendary Malayalam writer and film maker, Aswathy started dance training under her mother, at the tender age of four. She gave her first stage performance at the age of seven. This Post Graduate in English Language and Literature is also trained in Carnatic music. Aswathy is trained in three forms of dance, namely Bharatanatyam, Mohiniyattom and Kuchipudi. Her mother initiated her training in Mohiniyattom, and she continues her pursuit of excellence under Smt. Kalamandalam Leelamma, one of the most illustrious names in Mohiniyattom. She is the recipient of the Senior Scholarship for Mohiniyattom in the department of Culture Ministry of H.R.D. Aswathy is a regular performer in the sabhas of Chennai and is a graded artist of Doordarshan in both Bharatanatyam and Mohiniyattom. Along with her husband Srikanth she has travelled across India and to many other parts of the world, presenting her art before select audiences. The countries visited by her include U.S.A, Canada, Reunion Islands,Baharin and UAE
+
+</p>
+</center>
+<hr color="maroon" size=6>
+</font>
+</div>

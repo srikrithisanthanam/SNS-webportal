@@ -1,0 +1,14 @@
+% rebase('layout.tpl', title=title, year=year)
+<div class="jumbotron">
+<font size=5 color="maroon">
+<h1><center>HINDUSTANI</center></h1></font>
+<font size=5 align="justify">
+Hindustani music, one of the two principal types of South Asian classical music, found mainly in the northern three-fourths of the subcontinent, where Indo-Aryan languages are spoken.The two systems diverged gradually, beginning in the 13th century, when the Islamic conquest of northern parts of the subcontinent introduced highly influential Arab and Persian musical practices that then merged with Hindu traditions.<br><br>
+<p>
+Northern India shares with the south the use of ragas (melodic frameworks for improvisation and composition), the rhythmic principles of tala (cyclic metric patterns sometimes of great complexity), and the practice of nonmetric, rhythmically “free” improvisation. Although vocal music plays an important role, instrumental music is more important in Hindustani music than it is in Karnatak; there are some purely instrumental forms, such as the theme with variations known as gat.<br><br>
+Hindustani classical music is primarily vocal-centric. The major vocal forms associated with Hindustani classical music are the khayal, Ghazal, dhrupad, dhammar, tarana and thumri. Dhrupad style of singing is traditionally performed by men with a tanpura and pakhawaj. The lyrics sung in Dhrupad are in a medieval form of Hindi and typically heroic in theme, or in praise of a particular deity. A more adorned form is called dhamar. The place of dhrupad has been taken by somewhat less austere and more free-form khayal.<br><br>
+Khayal consists of about 4-8 lines of lyrics set to a tune. The performer uses these few lines as the base for improvisation. The Khayal form of Hindustani classical music is ascribed to Hussain Shah Sharqui, the 15th century ruler of the Sharqui dynasty. It was made popular by the 18th century rule of Mohammed Shah. Some of the modern day vocalists are Bhimsen Joshi, Nagraj Havaldar, Kishori Amonkar, Ulhas Kashalkar, Ajoy Chakraborty, Prabakar Karekar, Pandit Jasraj, Rashid Khan, Aslam Khan, Shruti Sadolikar, Chandrasekhar Swami and Mashkoor Ali Khan. <br><br>
+Another vocal form of the Hindustani music is Tarana. Tarana are songs that are used to convey a feel of joy and are usually performed towards the end of a concert. Thumri is an informal vocal form of Hindustani classical music and is said to have begun with the court of Nawab Wajid Ali Shah, the Nawab of Oudh.
+Originally, a Persian form of vocal music, Ghazal is an important part of Hindustani Classical music. Ghazal exists in multiple variations, including folk and pop forms. Some notable Ghazal performers include Ghulam Ali, Jagjit Singh, Mehndi Hassan and Pankaj Udhas. The themes of Ghazals range from love, joy and piety.
+<br></font></p>
+</div>
